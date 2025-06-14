@@ -6,7 +6,7 @@ A full-stack job portal application built using **Vite + React** for the fronten
 
 ## 🚀 Live Demo
 
-Frontend: [View on Vercel](https://job-portal-gilt.vercel.app/)
+Frontend: [ Vercel](https://job-portal-gilt.vercel.app/)
 
 
 ---
@@ -35,5 +35,5 @@ Frontend: [View on Vercel](https://job-portal-gilt.vercel.app/)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/job-portal.git
+git clone https://github.com/priyanka0123456/job-portal.git
 cd job-portal
