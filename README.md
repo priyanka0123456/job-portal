@@ -1,5 +1,17 @@
+# 🧑‍💼 Job Portal
+
+A full-stack job portal application built using **Vite + React** for the frontend and **Node.js + Express** for the backend. Users can search for jobs, apply, post listings, and manage their profiles. The application is optimized for performance and responsiveness.
 
 ---
+
+## 🚀 Live Demo
+
+Frontend: [View on Vercel](https://job-portal-gilt.vercel.app/)
+
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
