@@ -36,4 +36,6 @@ Frontend: [ Vercel](https://job-portal-gilt.vercel.app/)
 
 ```bash
 git clone https://github.com/priyanka0123456/job-portal.git
-cd job-portal
+cd job-portal  <br> <br>
+
+** Screenshots <br> <br>
