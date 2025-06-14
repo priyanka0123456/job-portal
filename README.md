@@ -16,17 +16,17 @@ Frontend: [ Vercel](https://job-portal-gilt.vercel.app/)
 ## 🛠️ Tech Stack
 
 ### Frontend
-- [Vite](https://vitejs.dev/)
-- [React](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Router](https://reactrouter.com/)
+- [Vite]
+- [React]
+- [Tailwind CSS]
+- [React Router]
 
 ### Backend
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
-- [JWT Auth](https://jwt.io/)
+- [Node.js]
+- [Express.js]
+- [MongoDB]
+- [Mongoose]
+- [JWT Auth]
 
 ---
 
