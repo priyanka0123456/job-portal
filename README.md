@@ -39,4 +39,3 @@ Backend & Frontend snapshots: [https://www.figma.com/design/s2ckFMsoj7DHWb1vqDZR
 git clone https://github.com/priyanka0123456/job-portal.git
 cd job-portal  <br> <br>
 
-** Screenshots <br> <br>
