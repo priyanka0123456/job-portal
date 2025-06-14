@@ -7,7 +7,7 @@ A full-stack job portal application built using **Vite + React** for the fronten
 ## 🚀 Live Demo
 
 Frontend: [ Vercel](https://job-portal-gilt.vercel.app/) <br>
-Backend & Frontend snapshots: [https://www.figma.com/design/s2ckFMsoj7DHWb1vqDZRBG/job-portal--Community-?node-id=0-1&p=f&m=draw]
+Backend snapshots: [https://www.figma.com/design/s2ckFMsoj7DHWb1vqDZRBG/job-portal--Community-?node-id=0-1&p=f&m=draw]
 
 
 ---
