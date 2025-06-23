@@ -1,14 +1,24 @@
 # Job Portal
 
 A full-stack job portal application built using **Vite + React** for the frontend and **Node.js + Express** for the backend. Users can search for jobs, apply, post listings, and manage their profiles. The application is optimized for performance and responsiveness.
-![Image](https://github.com/user-attachments/assets/9e8e4e1c-357e-4871-a2e4-5e98c90f9b61)
+
 
 ---
 
 ## 🚀 Live Demo
 
 Frontend: [ Vercel](https://job-portal-gilt.vercel.app/) <br>
-Backend snapshots: [https://www.figma.com/design/s2ckFMsoj7DHWb1vqDZRBG/job-portal--Community-?node-id=0-1&p=f&m=draw]
+ ## Screenshots of Demo:-
+Home Pages : ![Image](https://github.com/user-attachments/assets/986a8522-ba92-4cc8-a66e-a5d5ae906a32) <br> 
+![Image](https://github.com/user-attachments/assets/bb13b088-df04-4c2c-a74a-ae2d9c8a9954)
+User Profile :![Image](https://github.com/user-attachments/assets/782947da-b0d8-4a2a-a531-b73df28bb8fc)
+Admin Page: ![Image](https://github.com/user-attachments/assets/f5c280b6-6b71-4421-94ad-e4df24c75971)
+![Image](https://github.com/user-attachments/assets/1695bdc9-6dd8-4c02-a048-f2a6722bfcb3)
+
+
+
+![Image](https://github.com/user-attachments/assets/0b5094f5-de42-457a-a5d4-e718011f3f85)
+![Image](https://github.com/user-attachments/assets/7f607710-3fa7-4b90-b274-b6df99e116dc)
 
 
 ---
