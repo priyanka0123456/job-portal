@@ -17,7 +17,7 @@ Admin Page: ![Image](https://github.com/user-attachments/assets/f5c280b6-6b71-44
 
 
 
-![Image](https://github.com/user-attachments/assets/0b5094f5-de42-457a-a5d4-e718011f3f85)
+
 ![Image](https://github.com/user-attachments/assets/7f607710-3fa7-4b90-b274-b6df99e116dc)
 
 
