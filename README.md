@@ -48,5 +48,5 @@ Admin Page: ![Image](https://github.com/user-attachments/assets/f5c280b6-6b71-44
 
 ```bash
 git clone https://github.com/priyanka0123456/job-portal.git
-cd job-portal  <br> <br>
+cd job-portal  
 
