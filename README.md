@@ -9,10 +9,13 @@ A full-stack job portal application built using **Vite + React** for the fronten
 
 Frontend: [ Vercel](https://job-portal-gilt.vercel.app/) <br>
  ## Screenshots of Demo:-
-Home Pages : ![Image](https://github.com/user-attachments/assets/986a8522-ba92-4cc8-a66e-a5d5ae906a32) <br> 
+ ### 🏠 Home Page
+ ![Image](https://github.com/user-attachments/assets/986a8522-ba92-4cc8-a66e-a5d5ae906a32) <br> 
 ![Image](https://github.com/user-attachments/assets/bb13b088-df04-4c2c-a74a-ae2d9c8a9954)
-User Profile :![Image](https://github.com/user-attachments/assets/782947da-b0d8-4a2a-a531-b73df28bb8fc)
-Admin Page: ![Image](https://github.com/user-attachments/assets/f5c280b6-6b71-4421-94ad-e4df24c75971)
+ ### 👤 User Profile  
+![Image](https://github.com/user-attachments/assets/782947da-b0d8-4a2a-a531-b73df28bb8fc)
+### 🛠️ Admin Page  
+![Image](https://github.com/user-attachments/assets/f5c280b6-6b71-4421-94ad-e4df24c75971)
 ![Image](https://github.com/user-attachments/assets/1695bdc9-6dd8-4c02-a048-f2a6722bfcb3)
 
 
