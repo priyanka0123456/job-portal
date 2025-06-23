@@ -1,6 +1,7 @@
 # Job Portal
 
 A full-stack job portal application built using **Vite + React** for the frontend and **Node.js + Express** for the backend. Users can search for jobs, apply, post listings, and manage their profiles. The application is optimized for performance and responsiveness.
+![Image](https://github.com/user-attachments/assets/9e8e4e1c-357e-4871-a2e4-5e98c90f9b61)
 
 ---
 
